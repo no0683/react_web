@@ -1,4 +1,4 @@
-## React를 이용한 web site(ver.2021/05/07)
+## React를 이용한 Web Site(ver.2021/05/07)
 
 <img src="public/images/react_website_20210506.gif" width="90%" height="80%" alt="react_website"></img>
 
@@ -9,6 +9,6 @@
 * 홈페이지의 컨텐츠들의 방향과 영역은 css의 flex기능을 사용했습니다.
 * css의 @media기능을 사용하여 디바이스의 화면크기에 맞춰 반응하도록 만들었습니다.
 
-## The published To-do App:
+## The published Web Site:
 
 https://no0683.github.io/react_web
